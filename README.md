@@ -43,6 +43,9 @@
 3. 設定資料筆數、數值範圍與測試輪數，選擇排序方法後按 `run`。
 4. 按「建立圖表」查看計時結果。
 
+## 可直接開啟
+Windows 使用者可以直接執行 `Win32/Debug/Project3.exe`，不必先用 C++Builder 編譯。
+
 ## 專案檔案
 
 - `Project3.cbproj`：C++Builder 專案檔
